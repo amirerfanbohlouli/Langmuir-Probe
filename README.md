@@ -1,5 +1,5 @@
 👋 About Me
-Hi there! I'm Amirerfan Bahlouli.
+Hi there! I'm Amirerfan Bohlouli.
 
 I am an M.Sc. student in Nuclear Engineering with a focus on Nuclear Fusion at Amirkabir University of Technology (Tehran Polytechnic). My academic journey revolves around plasma physics, fusion energy, and the diagnostic systems that make cutting-edge plasma research possible.
 
